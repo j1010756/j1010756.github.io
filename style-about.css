@@ -8,6 +8,6 @@ body {background: url(myBackground.jpg);}
 
 #photo-td {width:466px; text-align:center;}
 
-h1 {color:#F0FFFF;}
+h1 {color:#F0FFFF; font-size: 50px; text-align:center;}
 
-p {color:#F0FFFF;}
+p {color:#F0FFFF; font-size: 30px; text-align:center;}
