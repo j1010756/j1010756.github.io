@@ -4,6 +4,10 @@ body {background: url(myBackground.jpg);}
 
 #nav-td {width:341px; text-align:center;}
 
+#photo-table {width:1920px;}
+
+#photo-td {width:640px; text-align:center;}
+
 h1 {color:#F0FFFF;}
 
 p {color:#F0FFFF;}
